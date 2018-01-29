@@ -1,0 +1,3 @@
+# Microcontroller-Based-Smart-Security-System
+The main goal of our project is to build a cost effective and easy to operate security system that can be operated and monitored 24 hours a day from any distant place and have various interconnected sensors to detect motion, fire, gas, burglar or any kinds of intrusions. There are many security system developed recently but none of them have a complete solution for protecting the house or small industry. We tried to sum up all possible ways to secure our home as well as small industries.  We successfully achieve our goal with some limitations.
+The project were done at the end of year-2014.
